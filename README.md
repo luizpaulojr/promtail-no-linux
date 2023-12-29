@@ -17,7 +17,7 @@ Criando o config do promtail
 Create dir in /etc
 mkdir -p /etc/promtail /etc/promtail/logs
 
-Criando arquivo: (cole o bloco abaixo e realize ajustes confirme necessário)
+Criando arquivo: (cole o bloco abaixo e realize ajustes conforme necessário)
 
 vim /etc/promtail/promtail-config.yaml
 
